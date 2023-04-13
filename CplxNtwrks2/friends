@@ -1,17 +1,17 @@
 graph {
-	Alice -- Bob [label=1];
-	Alice -- Carl [label=1];
-	Alice -- David [label=1];
-	Alice -- Ernst [label=1];
-	Alice -- Frank [label=1];
-	Bob -- Gail [label=1];
-	Carl -- David [label=1];
-	Carl -- Frank [label=1];
-	Ernst -- Frank [label=1];
-	Gail -- Harry [label=1];
-	Gail -- Jen [label=1];
-	Gail -- Irene [label=1];
-	Harry -- Jen [label=1];
-	Harry -- Irene [label=1];
-	Irene -- Jen [label=1];
+	Alice -- Bob;
+	Alice -- Carl;
+	Alice -- David;
+	Alice -- Ernst;
+	Alice -- Frank;
+	Bob -- Gail;
+	Carl -- David;
+	Carl -- Frank;
+	Ernst -- Frank;
+	Gail -- Harry;
+	Gail -- Jen;
+	Gail -- Irene;
+	Harry -- Jen;
+	Harry -- Irene;
+	Irene -- Jen;
 }
